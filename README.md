@@ -1,8 +1,12 @@
-# ng-grid : An Angular DataGrid
+# Deprecated: ng-grid 2.x is no longer under active development. Version 3.0 is called [uiGrid](https://github.com/angular-ui/ui-grid), and is actively maintained.
 
-[![Build Status](https://travis-ci.org/angular-ui/ng-grid.png)](https://travis-ci.org/angular-ui/ng-grid)
+# ng-grid : An Angular DataGridnoc
 
-_Note: We are no longer accepting feature based pull requests based on the 2.* branch. All active feature development is happening in the [master branch](https://github.com/angular-ui/ng-grid/tree/master). PRs there are encouraged and will be celebrated with virtual high fives all around.  If you are serious about helping 3.0 become a success, join the discussion at https://gitter.im/angular-ui/ng-grid_
+[![Build Status](https://travis-ci.org/angular-ui/ng-grid-legacy.png)](https://travis-ci.org/angular-ui/ng-grid-legacy)
+
+_Note: We are no longer accepting feature based pull requests based on the 2.* branch. All active feature development is happening in 3.x. Version 2.x does not currently have a maintainer, if you would like become the maintainer, head over to the [uiGrid repository](https://github.com/angular-ui/ui-grid) and get in touch with one of the devs there.
+
+We have separated the 2.x code from 3.x so we can more easily address issues and pull requests related to the current version. While the api is similar, the codebase for 2.x and 3.x is substantially different.
 
 __Contributors:__
 
