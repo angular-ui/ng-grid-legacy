@@ -1,6 +1,6 @@
 # Deprecated: ng-grid 2.x is no longer under active development. Version 3.0 is called [uiGrid](https://github.com/angular-ui/ui-grid), and is actively maintained.
 
-# ng-grid : An Angular DataGridnoc
+# ng-grid : An Angular DataGrid
 
 [![Build Status](https://travis-ci.org/angular-ui/ng-grid-legacy.png)](https://travis-ci.org/angular-ui/ng-grid-legacy)
 
