@@ -67,7 +67,7 @@ function MyCtrl($scope) {
 Check out the [Getting Started](https://github.com/angular-ui/ng-grid-legacy/wiki/Getting-started) and other [Docs](https://github.com/angular-ui/ng-grid-legacy/wiki)
 
 ## Examples
-[Examples](http://angular-ui.github.com/ng-grid-legacy/wiki)
+[Examples](https://github.com/angular-ui/ng-grid-legacy/wiki)
 
 ## Testing
 
