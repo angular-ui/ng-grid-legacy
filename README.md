@@ -35,13 +35,6 @@ Questions, Comments, Complaints? feel free to email us at nggridteam@gmail.com
 
 ***
 
-## Roadmap
-
-We are going to be adding more features here as we head to a 3.0 release, including:
-
-* Anything else the rest of the community wants to contribute that isn't a terrible idea. :)
-
-***
 _The bare bones_:
 
 ```html
@@ -71,10 +64,10 @@ function MyCtrl($scope) {
 ```
 
 ## Want More?
-Check out the [Getting Started](https://github.com/angular-ui/ng-grid/wiki/Getting-started) and other [Docs](https://github.com/angular-ui/ng-grid/wiki)
+Check out the [Getting Started](https://github.com/angular-ui/ng-grid-legacy/wiki/Getting-started) and other [Docs](https://github.com/angular-ui/ng-grid-legacy/wiki)
 
 ## Examples
-[Examples](http://angular-ui.github.com/ng-grid/)
+[Examples](http://angular-ui.github.com/ng-grid-legacy/wiki)
 
 ## Testing
 
